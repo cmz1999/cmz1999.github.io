@@ -9,4 +9,36 @@ redirect_from:
 
 Welcome to my homepage!
 
-I was born in Lanzhou, China, in 1999. I received the B.E. degree in optoelectronic information science and engineering from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2021. I am currently pursuing a Ph.D. degree at the School of Electronics, Peking University, Beijing, China, under the supervision of Prof. Ming-Yao Xia. I expect to graduate from Peking University by July 2026. My current research interests include terahertz technology, diffractive optical neural networks, metasurfaces, and electromagnetic wave manipulation. I have published more than 20 peer-reviewed papers in journals such as PhotoniX, Light: Advanced Manufacturing, Photonics Research, Nanoscale, and Optical Materials.
+I was born in Lanzhou, China, in 1999. I received the B.Eng. degree from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2021. I am currently pursuing a Ph.D. degree at Peking University (PKU), Beijing, China. I expect to graduate from Peking University by July 2026. My current research interests include terahertz technology, diffractive optical neural networks, metasurfaces, and electromagnetic wave manipulation. I have published more than 20 peer-reviewed papers in journals such as PhotoniX, Light: Advanced Manufacturing, Photonics Research, Nanoscale, and Optical Materials.
+
+Education and Work Experience
+======
+* Ph.D from Sept. 2021 to Jul. 2026 (expected)
+  * Peking University (PKU), Beijing, China
+  * Major in Electromagnetic Field and Microwave Technology
+  * Supervisor: Prof. Ming-Yao Xia
+
+* Research Assistant from May 2025 to Aug. 2025
+  * City University of Hong Kong (CityUHK), Hong Kong SAR, China
+  * State Key Laboratory of Terahertz and Millimeter Waves
+  * Supervisor: Prof. Chi Hou Chan
+
+* B.Eng. from Sept. 2017 to Jul. 2021
+  * Huazhong University of Science and Technology (HUST), Wuhan, China
+  * Major in Optoelectronic Information Science and Engineering
+
+* Exchange Student from Sept. 2019 to Jan. 2020
+  * Zhejiang University (ZJU), Hangzhou, China
+  * Major in Optoelectronic Information Science and Engineering
+
+Research Interests
+======
+My research lies in electromagnetics and optics, with a focus on creating new electromagnetic technologies for a better world, such as:
+
+* Terahertz Technology
+* Metasurfaces and Metamaterials
+* Electromagnetic Wave Manipulation
+* Diffractive Optical Neural Networks
+* Terahertz Communication
+* Display and Imaging
+
