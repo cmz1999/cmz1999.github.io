@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I was born in Lanzhou, China, in 1999. I received the B.Eng. degree from Huazhong University of Science and Technology (HUST) in Wuhan, China, in 2021. I am currently pursuing a Ph.D. at Peking University (PKU) in Beijing, China. I expect to graduate from Peking University by July 2026. My current research interests include terahertz technology, diffractive optical neural networks, metasurfaces, and electromagnetic wave manipulation. I have published more than 20 peer-reviewed papers in journals such as <i>PhotoniX<i>, <i>Light: Advanced Manufacturing<i>, <i>Photonics Research<i>, <i>Nanoscale<i>, and <i>Optical Materials<i>.
+I was born in Lanzhou, China, in 1999. I received the B.Eng. degree from Huazhong University of Science and Technology (HUST) in Wuhan, China, in 2021. I am currently pursuing a Ph.D. at Peking University (PKU) in Beijing, China. I expect to graduate from Peking University by July 2026. My current research interests include terahertz technology, diffractive optical neural networks, metasurfaces, and electromagnetic wave manipulation. I have published more than 20 peer-reviewed papers in journals such as <i>PhotoniX</i>, <i>Light: Advanced Manufacturing</i>, <i>Photonics Research</i>, <i>Nanoscale</i>, and <i>Optical Materials</i>.
 
 Education and Work Experience
 ======
