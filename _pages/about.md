@@ -13,21 +13,21 @@ I was born in Lanzhou, China, in 1999. I received the B.Eng. degree from Huazhon
 
 Education and Work Experience
 ======
-* Ph.D, Sept. 2021 – Jul. 2026 (expected)
+* Ph.D: Sept. 2021 – Jul. 2026 (expected)
   * Peking University (PKU), Beijing, China
   * Major: Electromagnetic Field and Microwave Technology
   * Supervisor: Prof. Ming-Yao Xia
 
-* Research Assistant, May 2025 – Aug. 2025
+* Research Assistant: May 2025 – Aug. 2025
   * City University of Hong Kong (CityUHK), Hong Kong SAR, China
   * State Key Laboratory of Terahertz and Millimeter Waves
   * Supervisor: Prof. Chi Hou Chan
 
-* B.Eng, Sept. 2017 – Jul. 2021
+* B.Eng: Sept. 2017 – Jul. 2021
   * Huazhong University of Science and Technology (HUST), Wuhan, China
   * Major: Optoelectronic Information Science and Engineering
 
-* Exchange Student, Sept. 2019 – Jan. 2020
+* Exchange Student: Sept. 2019 – Jan. 2020
   * Zhejiang University (ZJU), Hangzhou, China
   * Major: Optoelectronic Information Science and Engineering
 
