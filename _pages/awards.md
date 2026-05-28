@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: "Awards and Honours"
 layout: archive
 author_profile: true
 permalink: /awards/
