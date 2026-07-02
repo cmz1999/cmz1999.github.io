@@ -9,12 +9,12 @@ redirect_from:
 
 Welcome to my homepage!
 
-I was born in Lanzhou, China, in 1999. I received the B.Eng. degree from Huazhong University of Science and Technology (HUST) in Wuhan, China, in 2021. I am currently pursuing a Ph.D. at Peking University (PKU) in Beijing, China. I expect to graduate from Peking University by July 2026. My current research interests include terahertz technology, diffractive optical neural networks, metasurfaces, and electromagnetic wave manipulation. I have published more than 20 peer-reviewed papers in journals such as <i>PhotoniX</i>, <i>Light: Advanced Manufacturing</i>, <i>Photonics Research</i>, <i>Nanoscale</i>, and <i>Optical Materials</i> (as the first author).
+I was born in Lanzhou, China, in 1999. I received the B.Eng. degree from Huazhong University of Science and Technology (HUST) in Wuhan, China, in June 2021, and the Ph.D. degree from Peking University (PKU) in Beijing, China, in June 2026. My current research interests include terahertz technology, diffractive optical neural networks, metasurfaces, and electromagnetic wave manipulation. I have more than 20 peer-reviewed papers accepted or published in journals such as <i>Light: Science & Applications</i>, <i>PhotoniX</i>, <i>Light: Advanced Manufacturing</i>, <i>Photonics Research</i>, and <i>Nanoscale</i> (as the first author).
 
 Education and Work Experience
 ======
 * <b>Peking University (PKU), Beijing, China</b>
-  * Ph.D. (Sept. 2021 – Jul. 2026 (expected))
+  * Ph.D. (Sept. 2021 – Jun. 2026)
   * Major: Electromagnetic Field and Microwave Technology
   * Supervisor: Prof. Ming-Yao Xia
 
@@ -24,7 +24,7 @@ Education and Work Experience
   * Supervisor: Prof. Chi Hou Chan
 
 * <b>Huazhong University of Science and Technology (HUST), Wuhan, China</b>
-  * B.Eng. (Sept. 2017 – Jul. 2021)
+  * B.Eng. (Sept. 2017 – Jun. 2021)
   * Major: Optoelectronic Information Science and Engineering
 
 * <b>Zhejiang University (ZJU), Hangzhou, China</b>
