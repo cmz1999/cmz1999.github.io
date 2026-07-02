@@ -24,13 +24,13 @@ repository               : "cmz1999/cmz1999.github.io"
 author:
   # Biographic information
   avatar           : "profile-cmz.png"
-  name             : "Ming-Zhe Chong 种明喆"
+  name             : "Dr. Ming-Zhe Chong 种明喆"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Peking University"
+  bio              : "Ph.D. from Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
-  email            : "cmz1999@stu.pku.edu.cn" 
+  email            : "cmz1999@qq.com" 
 
   # Academic websites
   academia         : # URL
