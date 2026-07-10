@@ -27,8 +27,8 @@ author:
   name             : "Dr. Ming-Zhe Chong 种明喆"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. from Peking University"
-  location         : "Beijing, China"
-  employer         : "Peking University"
+  location         : # "Beijing, China"
+  employer         : # "Peking University"
   uri              : # URL
   email            : "cmz1999@qq.com" 
 
