@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please download my CV here: [CV](/files/CV-cmz.pdf) (updated on 10 July 2026).
+Please download my CV here: [CV](/files/CV-cmz.pdf) (updated on 12 July 2026).
 
 <!-- To be completed 
 Education
