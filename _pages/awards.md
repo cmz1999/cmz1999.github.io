@@ -10,4 +10,4 @@ permalink: /awards/
 * <b>Award for Scientific Research</b>, Peking University, 2025
 * <b>Merit Student</b>, Peking University, 2024
 * <b>Youth Science Award of "Challenge Cup" (Special Prize)</b>, Peking University, 2024
-* <b>First Prize in Hubei Province</b>, The Chinese Mathematics Competitions for College Students, 2018
+* <b>First Prize</b>, The 10th Chinese Mathematics Competitions for College Students, 2018
